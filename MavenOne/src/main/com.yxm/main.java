@@ -7,5 +7,7 @@ public class main {
         System.out.println("args = ");
         System.out.println("args = ");
         System.out.println("args = ");
+//        修改开始开趴梯
+        System.out.println("args = 6666666666666666666666666");
     }
 }
